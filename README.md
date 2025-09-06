@@ -1,8 +1,5 @@
-## Hi there 👋
+## Hi, I'm Abiyyu! 👋
 
-## 👋 About Me  
-
-Hi, I'm Abiyyu!  
 🎓 An Information Systems student at Gunadarma University  
 💡 Enthusiastic about Machine Learning & Data Science  
 🔭 Currently exploring Deep Learning and Computer Vision  
