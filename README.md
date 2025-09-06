@@ -26,9 +26,6 @@
   <!-- SQL (pakai MySQL sebagai representasi) -->
   <img title="SQL / MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-  <!-- PostgreSQL -->
-  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
   <!-- Oracle Database -->
   <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 
