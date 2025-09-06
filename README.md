@@ -1,35 +1,67 @@
 ## Hi there 👋
 
-💻 Mahasiswa Sistem Informasi @ Gunadarma University
-🔭 Currently working on: Machine Learning & Data Science projects  
-🌱 Currently learning: Computer Vision, NLP, and HPC
+## 👋 About Me  
 
-## 🚀 Skills
-- Python, SQL, C, Java
-- Machine Learning, Data Science, Deep Learning
-- Oracle Database
+Hi, I'm Abiyyu!  
+🎓 An Information Systems student at Gunadarma University  
+💡 Enthusiastic about Machine Learning & Data Science  
+🔭 Currently exploring Deep Learning and Computer Vision  
+📚 Love turning data into insights and solutions  
+🤝 Open to collaboration on AI, Data Science, and Open Source projects  
 
-## 📊 GitHub Stats
-![Abiyyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiyyuR&show_icons=true&theme=radical)
+✨ I enjoy learning new technologies, solving real-world problems with data, and sharing knowledge with the community. My current focus is building predictive models and exploring how AI can create impactful solutions.
+
+## 🛠 Tech Stack
 
 <p align="left">
+  <!-- Python -->
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+  <!-- NumPy -->
+  <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+
+  <!-- Matplotlib (pakai logo python-matplotlib unofficial) -->
+  <img title="Matplotlib" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+
+  <!-- Seaborn (logo unofficial karena belum ada di devicon) -->
+  <img title="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/>
+
+  <!-- SQL (pakai MySQL sebagai representasi) -->
+  <img title="SQL / MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+  <!-- PostgreSQL -->
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+
+  <!-- Oracle Database -->
+  <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
+
+  <!-- TensorFlow -->
+  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+
+  <!-- Scikit-learn -->
+  <img title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+
+  <!-- Jupyter Notebook -->
+  <img title="Jupyter Notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
+  <!-- Google Colab -->
+  <img title="Google Colab" src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/>
+
+  <!-- Git -->
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+  <!-- GitHub -->
+  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Stats
+<p align="left">
 <a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biyyu12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biyyu12&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
-<!--
-**Biyyu12/Biyyu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/abiyyumuhadzzib/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
