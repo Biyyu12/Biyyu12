@@ -14,23 +14,8 @@
   <!-- Python -->
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
-  <!-- NumPy -->
-  <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-
-  <!-- Matplotlib (pakai logo python-matplotlib unofficial) -->
-  <img title="Matplotlib" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-
-  <!-- Seaborn (logo unofficial karena belum ada di devicon) -->
-  <img title="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/>
-
   <!-- SQL (pakai MySQL sebagai representasi) -->
   <img title="SQL / MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-  <!-- Oracle Database -->
-  <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-
-  <!-- TensorFlow -->
-  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 
   <!-- Scikit-learn -->
   <img title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
