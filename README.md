@@ -2,11 +2,7 @@
 
 🎓 An Information Systems student at Gunadarma University  
 💡 Enthusiastic about Machine Learning & Data Science  
-🔭 Currently exploring Deep Learning and Computer Vision  
-📚 Love turning data into insights and solutions  
 🤝 Open to collaboration on AI, Data Science, and Open Source projects  
-
-✨ I enjoy learning new technologies, solving real-world problems with data, and sharing knowledge with the community. My current focus is building predictive models and exploring how AI can create impactful solutions.
 
 ## 🛠 Tech Stack
 
