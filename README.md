@@ -29,13 +29,5 @@
   <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biyyu12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biyyu12&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
-
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/abiyyumuhadzzib/)
