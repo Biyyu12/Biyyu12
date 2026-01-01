@@ -1,8 +1,11 @@
 ## Hi, I'm Abiyyu! 👋
 
-🎓 An Information Systems student at Gunadarma University  
-💡 Enthusiastic about Machine Learning & Data Science  
-🤝 Open to collaboration on AI, Data Science, and Open Source projects  
+🎓 Information Systems student at **Gunadarma University**  
+💡 Passionate about **Machine Learning, Data Science, and AI**  
+🤝 Open to collaboration on **AI, Data Science, and Open Source projects**  
+📚 Always learning and sharing knowledge through projects & documentation  
+
+---
 
 ## 🛠 Tech Stack
 
@@ -10,7 +13,7 @@
   <!-- Python -->
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
-  <!-- SQL (pakai MySQL sebagai representasi) -->
+  <!-- SQL (MySQL) -->
   <img title="SQL / MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
   <!-- Scikit-learn -->
@@ -29,14 +32,22 @@
   <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
+---
+
 ## 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/penuliscode">
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biyyu12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biyyu12&layout=compact&layout=compact&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biyyu12&layout=compact&theme=algolia"/>
 </p>
 
-## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/abiyyumuhadzzib/)
+---
 
+## 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/abiyyumuhadzzib/)  
+- [GitHub](https://github.com/Biyyu12)  
+- [Portfolio/Blog (optional)](https://your-portfolio-link.com)  
+
+---
+✨ *"Code, Learn, Share, Repeat."* ✨
